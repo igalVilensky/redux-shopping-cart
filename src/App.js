@@ -1,4 +1,5 @@
 import Header from "./containers/Header";
+import "./app.scss";
 import ProductComponent from "./containers/ProductComponent";
 import ProductDetails from "./containers/ProductDetails";
 import ProductListing from "./containers/ProductListing";
